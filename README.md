@@ -1,4 +1,4 @@
-﻿# CS178-Final-Project
+﻿# Final-Project
 # IMDb Sentiment Classifier – Data Exploration
 
 ## What I Did
@@ -41,5 +41,6 @@ Copy
 Edit
 import nltk
 nltk.download('stopwords')
+
 
 
